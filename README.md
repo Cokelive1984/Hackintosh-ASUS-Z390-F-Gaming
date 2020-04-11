@@ -22,6 +22,16 @@
 | 音响                         | Apple HomePad                                    | [<font color=#FF644E >链接</font>](https://www.apple.com.cn/homepod/) |
 | 辅助笔电                     | Apple MBP 2012                                   | [<font color=#FF644E >链接</font>](https://support.apple.com/kb/SP649?locale=zh_CN) |
 
+
+
+- **<font size=5>SMBIOS</font>**
+
+<img src="https://raw.githubusercontent.com/Cokelive1984/Hackintosh-ASUS-Z390-F-Gaming/master/EFI/info.png" style="zoom:50%;" />
+
+
+
+
+
 - **<font size=4>主板BIos设置</font>**
 
   <font color=#FF644E >F5 </font>恢复主板BIOS默认最优设置
@@ -52,6 +62,8 @@
 
   <font color=#FF644E >F10</font> 保存，开机 <font color=#FF644E >F8</font>  U盘启动;
 
-   参考论坛：[<font color=#FF644E >Tonymacx86.com</font>](tonymacx86.com)、[<font color=#FF644E >远景论坛黑苹果板块</font>](bbs.pcbeta.com/forum.php?gid=86)、[<font color=#FF644E >黑果小兵</font>](https://blog.daliansky.net/)、[<font color=#FF644E >国光</font>](https://www.sqlsec.com/)等；
+  
+
+ - 参考论坛：[<font color=#FF644E >Tonymacx86.com</font>](tonymacx86.com)、[<font color=#FF644E >远景论坛黑苹果板块</font>](bbs.pcbeta.com/forum.php?gid=86)、[<font color=#FF644E >黑果小兵</font>](https://blog.daliansky.net/)、[<font color=#FF644E >国光</font>](https://www.sqlsec.com/)等；
 
 
