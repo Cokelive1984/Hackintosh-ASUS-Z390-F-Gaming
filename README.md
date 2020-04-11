@@ -38,7 +38,7 @@
 
   ~~<font color=#FF644E >F11</font> 开启Enable AI超频  （尾缀K系列CPU才可开启）~~   
 
-  Ai Tweaker - Ai智能超频  <font color=#FF644E >XMP</font>  开启  （高出标称内存频率才开启XMP）
+  ~~Ai Tweaker - Ai智能超频  <font color=#FF644E >XMP</font>  开启  （高出标称内存频率才开启XMP）~~
 
   高级 - CPU设置 - Intel（VMX） Virtualization Technology  开启
 
