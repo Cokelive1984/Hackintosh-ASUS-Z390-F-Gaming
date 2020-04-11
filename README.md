@@ -1,4 +1,5 @@
-## ASUS Z390-F Gaming
+# 黑苹果 华硕 `Z390-F Gaming`
+## ASUS `Z390-F Gaming`
 
 ### 配置清单
 
