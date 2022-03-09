@@ -20,7 +20,7 @@
 | 鼠标                         | 雷蛇 狂蛇精英版《守望先锋》D.Va定制              | [<font color=#FF644E >链接</font>](http://cn.razerzone.com/overwatch-dva/razer-dva-abyssus-elite) |
 | 键盘                         | 罗技 K845 Cherry青轴                             | [<font color=#FF644E >链接</font>](https://www.logitech.com.cn/zh-cn/product/k845-mechanical-illuminated) |
 | 音响                         | Apple HomePad                                    | [<font color=#FF644E >链接</font>](https://www.apple.com.cn/homepod/) |
-| 辅助笔电                     | Apple MBP 2012                                   | [<font color=#FF644E >链接</font>](https://support.apple.com/kb/SP649?locale=zh_CN) |
+| 辅助笔电                     | Apple MBP 2020 M1                                   | [<font color=#FF644E >链接</font>](https://support.apple.com/kb/SP649?locale=zh_CN) |
 
 
 
